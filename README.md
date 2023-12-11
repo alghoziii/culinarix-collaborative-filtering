@@ -39,7 +39,7 @@ This endpoint provides restaurant recommendations based on the user_id entered. 
 
 #### Description:
 
-This endpoint retrieves the top-rated restaurants based on culinary ratings.
+This endpoint is used if the user_id does not exist then takes the restaurant with the top ranking based on the culinary ranking.
 
 #### Response:
 

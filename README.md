@@ -6,6 +6,10 @@ This Flask-based API provides restaurant recommendations and information based o
 
 ## Endpoints
 
+**Base URL :**
+
+> [https://getloc-314510.et.r.appspot.com/](https://culinarix-collaborative-filtering-6lmjk4zvdq-as.a.run.app)
+
 ### Get prediction
 
 #### Endpoint:

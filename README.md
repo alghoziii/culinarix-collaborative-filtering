@@ -65,7 +65,7 @@ This endpoint retrieves the top-rated restaurants based on culinary ratings.
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/LeeVonks/content-based.git](https://github.com/alghoziii/culinarix-collaborative-filtering.git)
+   https://github.com/alghoziii/culinarix-collaborative-filtering.git
 
    
 2. Install dependencies:

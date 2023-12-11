@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Flask-based API provides restaurant recommendations and information based on User_id making recommendations for users after logging in from the application. This provides predictions based on User_Id from a machine learning model to display restaurant details
+This Flask-based API provides restaurant recommendations and information based on user_id making recommendations for users after logging in from the application. This provides predictions based on user_id from a machine learning model to display restaurant details
 
 ## Endpoints
 
@@ -10,11 +10,11 @@ This Flask-based API provides restaurant recommendations and information based o
 
 #### Endpoint:
 
-`GET /prediction/<User_Id>`
+`GET /prediction/<user_id>`
 
 #### Description:
 
-This endpoint provides restaurant recommendations based on the User_Id entered. If User_Id is not found, it will display a query based on the highest restaurant rating
+This endpoint provides restaurant recommendations based on the user_id entered. If user_id is not found, it will display a query based on the highest restaurant rating
 
 #### Request:
 

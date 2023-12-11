@@ -20,8 +20,6 @@ This Flask-based API provides restaurant recommendations and information based o
 
 This endpoint provides restaurant recommendations based on the user_id entered. If user_id is not found, it will display a query based on the highest restaurant rating
 
-#### Request:
-
 
 #### Response:
 
